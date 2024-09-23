@@ -1,5 +1,5 @@
 {
-  "name": "@MaroZz/node-red-contrib-ui-time-scheduler",
+  "name": "@marozz/node-red-contrib-ui-time-scheduler",
   "version": "0.0.1",
   "description": "A ui time scheduler for the Node-RED Dashboard, forked ",
   "dependencies": {

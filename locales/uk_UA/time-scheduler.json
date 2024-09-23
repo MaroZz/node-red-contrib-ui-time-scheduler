@@ -25,13 +25,13 @@
             "device": "Device"
         },
         "days": [
+            "Неділя",
             "Понеділок",
             "Вівторок",
             "Середа",
             "Четвер",
             "П'ятниця",
-            "Суббота"б
-            "Неділя"
+            "Суббота"
         ],
         "customPayloadDesc": "Accept free-form frontend input for events",
         "eventModeDesc": "Schedule single events rather than a time span",
@@ -40,23 +40,23 @@
         "topicDesc": "Send the device name via msg.topic",
         "copy": "copy",
         "ui": {
-            "start": "Start",
-            "starttime": "Starttime",
-            "end": "End",
-            "endtime": "Endtime",
+            "start": "Початок",
+            "starttime": "Початок",
+            "end": "Кінець",
+            "endtime": "Кінець",
             "event": "Event",
-            "duration": "Duration",
+            "duration": "Тривалість",
             "overview": "Overview",
             "days": [
+                "Нд",
                 "Пн",
                 "Вт",
                 "Ср",
                 "Чт",
                 "Пт",
-                "Сб",
-                "Нд"
+                "Сб"
             ],
-            "daysActive": "Select active days",
+            "daysActive": "Дні тижня",
             "active": "Active",
             "all": "All",
             "custom": "custom",

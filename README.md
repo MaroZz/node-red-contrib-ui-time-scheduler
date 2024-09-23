@@ -51,13 +51,3 @@ You can find example flows and schedules within the examples folder.
 Easily import flows via the Node-RED flow editor:
   
 ☰ -> Import -> Examples -> node-red-contrib-ui-time-scheduler
-  
-## History
-  
-Find the changelog [here](CHANGELOG.md).
-  
-# Donate
-  
-You can donate by clicking the following link if you want to support this free project:
-  
-<a target="blank" href="https://www.paypal.me/fellinga"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg"/></a>

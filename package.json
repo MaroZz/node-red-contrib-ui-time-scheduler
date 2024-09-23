@@ -1,7 +1,7 @@
 {
-  "name": "node-red-contrib-ui-time-scheduler",
-  "version": "1.17.2",
-  "description": "A ui time scheduler for the Node-RED Dashboard",
+  "name": "@MaroZz/node-red-contrib-ui-time-scheduler",
+  "version": "0.0.1",
+  "description": "A ui time scheduler for the Node-RED Dashboard, forked ",
   "dependencies": {
     "suncalc": "^1.9.0"
   },
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mario Fellinger <mario.fellinger@outlook.com>",
+  "author": "Marozz <xmarozx@gmail.com>",
   "license": "MIT",
   "node-red": {
     "version": ">=0.19.6",
@@ -31,6 +31,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fellinga/node-red-contrib-ui-time-scheduler.git"
+    "url": "https://github.com/MaroZz/node-red-contrib-ui-time-scheduler.git"
   }
 }

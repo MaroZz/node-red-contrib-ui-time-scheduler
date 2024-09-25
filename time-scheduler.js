@@ -218,6 +218,9 @@ module.exports = function(RED) {
 							</md-input-container>
 							`}
 						</div>
+						<div>
+						TEST
+						</div>
 						<div layout="row" style="max-height: 50px;">
 							<md-input-container>
 								<label style="color: var(--nr-dashboard-widgetTextColor)">${RED._("time-scheduler.ui.daysActive")}</label>

@@ -1,6 +1,6 @@
 {
   "name": "@marozz/node-red-contrib-ui-time-scheduler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A ui time scheduler for the Node-RED Dashboard, forked ",
   "dependencies": {
     "suncalc": "^1.9.0"
